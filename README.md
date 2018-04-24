@@ -1,0 +1,1 @@
+JavaResource2
